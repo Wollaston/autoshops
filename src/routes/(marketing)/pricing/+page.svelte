@@ -1,5 +1,4 @@
 <script lang="ts">
-  import PricingModule from "./pricing_module.svelte"
   import { WebsiteName } from "./../../../config"
 </script>
 
@@ -14,7 +13,5 @@
     Totally free, scale to millions of users
   </h2>
 
-  <div class="w-full my-8">
-    <PricingModule callToAction="Get Started" highlightedPlanId="pro" />
-  </div>
+  <div class="w-full my-8"></div>
 </div>
