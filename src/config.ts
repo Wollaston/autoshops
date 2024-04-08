@@ -1,1 +1,1 @@
-export const WebsiteName: string = "autoshops.com"
+export const WebsiteName: string = "AutoShops.com"

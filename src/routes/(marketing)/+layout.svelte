@@ -4,12 +4,13 @@
 
 <div class="navbar bg-base-100 container mx-auto">
   <div class="flex-1">
-    <a class="btn btn-ghost normal-case text-xl" href="/">autoshops.com</a>
+    <a class="btn btn-ghost normal-case text-xl" href="/">AutoShops.com</a>
   </div>
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1 hidden sm:flex font-bold text-lg">
       <li class="md:mx-2"><a href="/blog">Blog</a></li>
-      <li class="md:mx-2"><a href="/pricing">Pricing</a></li>
+      <li class="md:mx-2"><a href="/about">About</a></li>
+      <li class="md:mx-2"><a href="/contact_us">Contact Us</a></li>
       <li class="md:mx-2"><a href="/account">Account</a></li>
     </ul>
     <div class="dropdown dropdown-end sm:hidden">
@@ -36,7 +37,8 @@
         class="menu menu-lg dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 font-bold"
       >
         <li><a href="/blog">Blog</a></li>
-        <li><a href="/pricing">Pricing</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact_us">Contact</a></li>
         <li><a href="/account">Account</a></li>
       </ul>
     </div>
@@ -52,9 +54,9 @@
 <footer class="footer footer-center p-10 bg-base-200 text-base-content rounded">
   <nav class="grid grid-flow-col gap-4">
     <a class="link link-hover my-1" href="/">Overview</a>
-    <a class="link link-hover my-1" href="/pricing">Pricing</a>
+    <a class="link link-hover my-1" href="/about">About</a>
     <a class="link link-hover my-1" href="/blog">Blog</a>
-    <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
+    <a class="link link-hover my-1" href="/contact_us">Contact</a>
   </nav>
   <nav>
     <div class="grid grid-flow-col gap-4">
@@ -97,6 +99,6 @@
     </div>
   </nav>
   <aside>
-    <p>Copyright © 2024 - All right reserved by autoshops.com</p>
+    <p>Copyright © 2024 - All right reserved by AutoShops.com</p>
   </aside>
 </footer>
